@@ -14,3 +14,4 @@ JSDOC.PluginManager.registerPlugin(
 		}
 	}
 );
+
